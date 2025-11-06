@@ -1,0 +1,17 @@
+# UI 框架
+customtkinter>=5.2.0
+packaging>=24.0
+
+# 音频处理
+pygame>=2.5.0
+pydub>=0.25.0
+moviepy>=2.2.0
+
+# 数值计算（用于波形图）
+numpy>=1.24.0
+
+# 键盘监听
+pynput>=1.7.6
+
+# 图像处理
+Pillow>=10.0.0
